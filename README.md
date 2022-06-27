@@ -13,6 +13,7 @@ Event Platform
 * Phosphor
 * SVG 2 JSX
 * GraphQL Code Generator
+* date-fns
 
 
 * [Figma](https://www.figma.com/community/file/1120711251998877938)
