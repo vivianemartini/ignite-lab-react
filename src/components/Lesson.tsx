@@ -52,7 +52,7 @@ export function Lesson(props: LessonProps) {
                         'border-white': isActiveLesson,
                         'border-green-200': !isActiveLesson,
                     })}>
-                        {props.type === 'live' ? 'AO VIVO' : 'AULA PRÁTIA'}
+                        {props.type === 'live' ? 'AO VIVO' : 'AULA PRÁTICA'}
                     </span>
                 </header>
                 <strong className={classNames('mt-5 block', {
