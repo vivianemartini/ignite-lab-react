@@ -46,7 +46,7 @@ $ npm install
 # ou
 $ yarn
 # Execute a aplicação
-$ yarn dev
+$ npm run dev
 ```
 
 🔖 Layout
